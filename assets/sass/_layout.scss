@@ -1,7 +1,7 @@
 // Author
 .author {
-  margin-top: 6.3rem;
-  margin-bottom: 7.2rem;
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem;
   text-align: center;
 
   @include media-query($on-mobile) {
@@ -29,7 +29,6 @@
   .author-bio {
     margin: 0 auto;
     opacity: 0.9;
-    max-width: 393px;
     line-height: 1.688;
   }
 }
